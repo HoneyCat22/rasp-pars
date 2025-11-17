@@ -59,15 +59,15 @@ def create_ics_files(full_schedule):
 
     try:
         with open('lectures.ics', 'w', encoding='utf-8') as f:
-            f.write(str(c_lectures))
+            f.write(c_lectures.serialize())
         print("Успех! Файл 'lectures.ics' создан.")
         
         with open('practice.ics', 'w', encoding='utf-8') as f:
-            f.write(str(c_practice))
+            f.write(c_practice.serialize())
         print("Успех! Файл 'practice.ics' создан.")
         
         with open('exams.ics', 'w', encoding='utf-8') as f:
-            f.write(str(c_exams))
+            f.write(c_exams.serialize())
         print("Успех! Файл 'exams.ics' создан.")    
         
     except Exception as e:
