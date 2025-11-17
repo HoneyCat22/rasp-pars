@@ -14,13 +14,13 @@ def extract_schedule(html_text, session, headers, selection_value):
         day_title_tag = day_table.find('h5')
         
         if not day_title_tag:
-            continue # Пропускаем, если у таблицы нет шапки
+            continue 
             
         day_title = day_title_tag.text.strip()
 
         date_match = re.search(r'(\d{2}\.\d{2}\.\d{4})', day_title)
         if not date_match:
-            continue # Если не нашли дату, пропускаем день
+            continue 
         
         date = date_match.group(1) # "01.09.2025"
         
