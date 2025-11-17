@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
-DTEND:20251120T070000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20251120T053000Z
-SUMMARY:Дискретная математика
-UID:a6de87fd-2870-4267-9d36-392b459dad59@a6de.org
+DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.13 
+DTEND:20251118T070000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20251118T053000Z
+SUMMARY:Микроэкономика
+UID:da6136c9-63ae-4d92-9402-260243d337e0@da61.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.13 
@@ -15,7 +15,7 @@ DTEND:20251117T123000Z
 LOCATION:9 корпус - 3.13 
 DTSTART:20251117T110000Z
 SUMMARY:Математический анализ
-UID:e3e5883d-ddda-4752-ae2e-7f36370c3ed6@e3e5.org
+UID:d2129ae3-7d35-4c13-b093-07d2ee3aa3db@d212.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
@@ -23,14 +23,14 @@ DTEND:20251120T102000Z
 LOCATION:9 корпус - 3.05 
 DTSTART:20251120T085000Z
 SUMMARY:История России
-UID:531911ea-5e1a-43f9-9c56-47b32cdb3451@5319.org
+UID:3a227a3f-bfeb-436a-9a0d-eedbf27a1124@3a22.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.13 
-DTEND:20251118T070000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20251118T053000Z
-SUMMARY:Микроэкономика
-UID:e43d235a-e9d7-4833-a6fd-d258d29121d5@e43d.org
+DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
+DTEND:20251120T070000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20251120T053000Z
+SUMMARY:Дискретная математика
+UID:0b6c5315-eb77-4112-acb4-0766ab7667d7@0b6c.org
 END:VEVENT
 END:VCALENDAR
