@@ -1,6 +1,6 @@
 import requests
 
-def get_schedule_html(week_number=12, group='15.22д-э01/25б'):
+def get_schedule_html(group, week_number):
 
     url = "https://rasp.rea.ru/Schedule/ScheduleCard"
     my_params = {
@@ -22,7 +22,6 @@ def get_schedule_html(week_number=12, group='15.22д-э01/25б'):
 
         response = session.get(url, params=my_params, headers=headers)
         response.raise_for_status() 
-        print("Успех! Сервер ответил HTML-кодом.")
         html_data = response.text
         
         # Код, чтобы сохранить html файл страницы 

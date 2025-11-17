@@ -1,19 +1,20 @@
 @echo off
 chcp 65001 > nul
 
-echo === Активация виртуального окружения ===
+echo === Активация... ===
 call venv\Scripts\activate.bat
 
-echo === Запуск парсера и создание .ics файлов ===
+echo === Запуск парсера... ===
 python main.py
 
-echo === Добавление .ics файлов в Git ===
-git add lectures.ics practice.ics exams.ics
+echo === Добавление файлов в Git ===
+rem --- Добавляем ВСЕ ---
+git add .
 
-echo === Создание коммита (сохранения) ===
-git commit -m "Автоматическое обновление расписания"
+echo === Создание коммита... ===
+git commit -m "ФИНАЛЬНАЯ НАСТРОЙКА: Добавлен GitHub Action"
 
-echo === Синхронизация ===
+echo === Синхронизация... ===
 git pull origin main
 
 echo === Отправка файлов на GitHub ===

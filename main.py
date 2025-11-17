@@ -3,31 +3,39 @@ import logic
 import calendar_creator
 
 def main():
-    print("Получаю HTML...")
     
-    html_data, session, headers, selection = parser.get_schedule_html()
+    group_to_parse = '15.22д-э01/25б'
+    weeks_to_parse = range(12, 19) 
     
-    if html_data and session:
+    master_schedule_list = [] 
+    
+    print(f"Начинаю парсинг {group_to_parse} для недель {weeks_to_parse.start}-{weeks_to_parse.stop - 1}...")
+
+    for week in weeks_to_parse:
         
-        schedule = logic.extract_schedule(html_data, session, headers, selection)
+        print(f"--- Получаю HTML для недели {week} ---")
         
-        calendar_creator.create_ics_files(schedule)
+        html_data, session, headers, selection = parser.get_schedule_html(
+            group=group_to_parse, 
+            week_number=week
+        )
         
-        # print("--- Готовое расписание ---")
-        
-        # for day in schedule:
-        #     print(f"\n=== {day['day']} ===")
+        if html_data and session:
             
-        #     if len(day['lessons']) > 0: 
-        #         for lesson in day['lessons']:
-        #             # ... твой код вывода (он в порядке) ...
-        #             print(f"{lesson['pair_num']} ({lesson['start_time']}-{lesson['end_time']})")
-        #             print(f"  Предмет: {lesson['title']}")
-        #             print(f"  Тип:     {lesson['type']}")
-        #             print(f"  Место:   {lesson['location']}\n")
-        #     else:
-        #         print('Занятий нет')
-        # print()
+            schedule_for_one_week = logic.extract_schedule(html_data, session, headers, selection)
+            master_schedule_list.extend(schedule_for_one_week)
+            print(f"Неделя {week} обработана.")
+            
+        else:
+            print(f"Ошибка: Не удалось получить данные для недели {week}. Пропускаю.")
+
+    if master_schedule_list:
+        print("\nВсе недели обработаны. Создаю .ics файлы...")
+        calendar_creator.create_ics_files(master_schedule_list)
+        print("Готово!")
+    else:
+        print("Не удалось собрать никакие данные. Файлы не созданы.")
+
 
 if __name__ == "__main__":
     main()

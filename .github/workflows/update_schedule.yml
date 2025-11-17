@@ -1,0 +1,61 @@
+
+name: Автоматическое Обновление Расписания
+
+
+on:
+
+  schedule:
+
+    - cron: '0 21 * * *'
+  
+
+  workflow_dispatch:
+
+
+jobs:
+  build-and-push:
+
+    runs-on: ubuntu-latest
+    
+
+    steps:
+
+      - name: 1. Скачать код из репозитория
+        uses: actions/checkout@v4
+
+
+      - name: 2. Установить Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+
+      - name: 3. Установить библиотеки
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+
+      - name: 4. Запустить main.py для создания .ics файлов
+        run: python main.py
+        
+
+      - name: 5. Настроить Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+
+      - name: 6. Добавить и закоммитить .ics файлы
+        run: |
+          # Добавляем все .ics файлы
+          git add *.ics
+          
+          # Проверяем, есть ли вообще изменения
+          # (Если расписание не поменялось, коммитить не нужно)
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update: Обновлены файлы .ics"
+            git push
+          else
+            echo "Нет изменений в .ics. Push не требуется."
+          fi
