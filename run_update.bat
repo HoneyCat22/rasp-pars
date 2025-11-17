@@ -12,7 +12,7 @@ rem --- Добавляем ВСЕ ---
 git add .
 
 echo === Создание коммита... ===
-git commit -m "ФИНАЛЬНАЯ НАСТРОЙКА: Добавлен GitHub Action"
+git commit -m "Ручное обновление расписания"
 
 echo === Синхронизация... ===
 git pull origin main

@@ -16,7 +16,8 @@ jobs:
   build-and-push:
 
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
 
     steps:
 
