@@ -3,11 +3,15 @@ from datetime import datetime
 import re
 import pytz
 
-MOSCOW_TZ = pytz.timezone("Europe/Moscow")
+# Этот модуль будет создавать данные календаря
+
+moscow_tz = pytz.timezone("Europe/Moscow") # Задаем часовой пояс
 
 def create_ics_files(full_schedule):
 
     print("Создаю .ics файлы...")
+    
+    # Делаем три календаря - для лекций, практик и экзаменов (чтобы можно было раскрасить в разные цвета)
     
     c_lectures = Calendar()
     c_practice = Calendar()
@@ -23,11 +27,11 @@ def create_ics_files(full_schedule):
         
         for lesson in day['lessons']:
             
-            if not lesson['start_time'] or not lesson['end_time']:
+            if not lesson['start_time'] or not lesson['end_time']: # Отсеиваем если нет времени
                 continue
                 
             try:
-                start_dt_naive = datetime.strptime(
+                start_dt_naive = datetime.strptime(                # Создаем "наивное" время начала и конца
                     f"{date_str} {lesson['start_time']}", 
                     "%d.%m.%Y %H:%M"
                 )
@@ -36,12 +40,14 @@ def create_ics_files(full_schedule):
                     "%d.%m.%Y %H:%M"
                 )
 
-                start_dt_aware = MOSCOW_TZ.localize(start_dt_naive)
-                end_dt_aware = MOSCOW_TZ.localize(end_dt_naive)
+                start_dt_aware = moscow_tz.localize(start_dt_naive) # Привязываем время к часовому поясу
+                end_dt_aware = moscow_tz.localize(end_dt_naive)
 
             except ValueError as e:
                 print(f"Ошибка конвертации времени: {e}. Пропускаю пару.")
                 continue
+            
+            # Закидываем все даныне в календари
             
             e = Event()
             e.name = f"{lesson['title']}"
@@ -57,6 +63,8 @@ def create_ics_files(full_schedule):
             else:
                 c_exams.events.add(e)                
 
+        # А теперь создаем файлы самих календарей
+        
     try:
         with open('lectures.ics', 'w', encoding='utf-8') as f:
             f.write(c_lectures.serialize())
