@@ -3,283 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
-DTEND:20251210T123000Z
-LOCATION:3 корпус - 202 
-DTSTART:20251210T110000Z
-SUMMARY:Право
-UID:1eb95f47-00b9-442d-8606-e93501524305@1eb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTEND:20251121T123000Z
-LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTSTART:20251121T110000Z
-SUMMARY:Иностранный язык
-UID:88597b62-ce23-4671-8c1f-04b8b66e4232@8859.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
 DTEND:20251119T123000Z
 LOCATION:3 корпус - 202 
 DTSTART:20251119T110000Z
 SUMMARY:Право
-UID:3d4a487f-327e-4b04-8c30-77fbfc7c93e1@3d4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 221/1 
-DTEND:20251201T141000Z
-LOCATION:3 корпус - 221/1 
-DTSTART:20251201T124000Z
-SUMMARY:Дискретная математика
-UID:b3fe9d18-e40c-4eff-ab3e-3f28c3a03481@b3fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20251205T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20251205T085000Z
-SUMMARY:Основы военной подготовки
-UID:27bcfa00-9ba4-4695-83b4-95e1896be672@27bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - с/з №7 
-DTEND:20251210T141000Z
-LOCATION:2 корпус - с/з №7 
-DTSTART:20251210T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:7a64125e-2666-404b-a7a9-a258b778be99@7a64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
-DTEND:20251126T123000Z
-LOCATION:3 корпус - 202 
-DTSTART:20251126T110000Z
-SUMMARY:Право
-UID:7c699854-576d-411d-934a-8d143ad2c4e3@7c69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTEND:20251128T123000Z
-LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTSTART:20251128T110000Z
-SUMMARY:Иностранный язык
-UID:b35ba7bc-6ce5-4b1c-ae33-e3d29b048517@b35b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
-DTEND:20251126T102000Z
-LOCATION:2 корпус - 341 
-DTSTART:20251126T085000Z
-SUMMARY:История России
-UID:73e74a9b-864a-4498-b325-f745554af08d@73e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
-DTEND:20251217T123000Z
-LOCATION:3 корпус - 202 
-DTSTART:20251217T110000Z
-SUMMARY:Право
-UID:4ad72955-ffac-4338-870a-0d7fe309451d@4ad7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
-DTEND:20251119T102000Z
-LOCATION:2 корпус - 341 
-DTSTART:20251119T085000Z
-SUMMARY:История России
-UID:4b65f769-34ed-427a-95d9-a5a1028bb9f1@4b65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
-DTEND:20251203T102000Z
-LOCATION:2 корпус - 341 
-DTSTART:20251203T085000Z
-SUMMARY:История России
-UID:4a964894-5d59-456f-bc3e-3db126ffead1@4a96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
-DTEND:20251124T141000Z
-LOCATION:6 корпус - с/з №6 
-DTSTART:20251124T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:8ea141bf-1cdd-41f0-86df-80b4b450b121@8ea1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
-DTEND:20251212T141000Z
-LOCATION:6 корпус - с/з №6 
-DTSTART:20251212T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:da8e2603-00e5-428e-850a-598508737ca1@da8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
-DTEND:20251121T141000Z
-LOCATION:6 корпус - с/з №6 
-DTSTART:20251121T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:a207c25a-15c7-4af9-bb1e-0d510570e541@a207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
-DTEND:20251128T141000Z
-LOCATION:6 корпус - с/з №6 
-DTSTART:20251128T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:f6ce2223-c379-41f6-b813-14722b15d471@f6ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
-DTEND:20251219T141000Z
-LOCATION:6 корпус - с/з №6 
-DTSTART:20251219T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:34fb888b-0321-4566-a66c-04cfb3334f1b@34fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
-DTEND:20251203T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20251203T071000Z
-SUMMARY:Микроэкономика
-UID:c78755de-d934-4db8-978a-e8ff8b46896a@c787.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
-DTEND:20251120T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20251120T071000Z
-SUMMARY:Дискретная математика
-UID:37d861af-a59c-4edb-a694-6b727c4450a2@37d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
-DTEND:20251117T141000Z
-LOCATION:6 корпус - с/з №6 
-DTSTART:20251117T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:99dc9a62-4f7b-41ae-a49d-61e4f009e29a@99dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
-DTEND:20251224T123000Z
-LOCATION:3 корпус - 202 
-DTSTART:20251224T110000Z
-SUMMARY:Право
-UID:c3f5a600-2aeb-4a6e-9f05-4d168318c531@c3f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
-DTEND:20251217T102000Z
-LOCATION:2 корпус - 341 
-DTSTART:20251217T085000Z
-SUMMARY:История России
-UID:b08f4a8c-0a6f-4ef6-9e55-0a8daec39724@b08f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - с/з №7 
-DTEND:20251224T141000Z
-LOCATION:2 корпус - с/з №7 
-DTSTART:20251224T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:2932aeaf-d250-4407-9692-00b86fbb23f3@2932.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
-DTEND:20251126T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20251126T071000Z
-SUMMARY:Микроэкономика
-UID:bbe43f05-6f88-4dd1-a729-e5d73808b80c@bbe4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - с/з №1 
-DTEND:20251201T084000Z
-LOCATION:2 корпус - с/з №1 
-DTSTART:20251201T071000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:31fc30a0-23a5-4b42-8d84-ef4eceb450cb@31fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTEND:20251205T123000Z
-LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTSTART:20251205T110000Z
-SUMMARY:Иностранный язык
-UID:4eb87120-3c06-4c5e-bbef-b311fa97fdc1@4eb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20251125T084000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20251125T071000Z
-SUMMARY:Микроэкономика
-UID:0061710d-68f0-4511-920f-9b7816ecd562@0061.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 435 
-DTEND:20251208T141000Z
-LOCATION:3 корпус - 435 
-DTSTART:20251208T124000Z
-SUMMARY:Дискретная математика
-UID:c82f844c-5dab-42cc-948f-99045fc6ad8d@c82f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20251118T084000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20251118T071000Z
-SUMMARY:Микроэкономика
-UID:2cc2b9e2-d811-4a0a-9ba9-e4d56ebe3497@2cc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20251206T084000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20251206T071000Z
-SUMMARY:Дискретная математика
-UID:f1a46ab8-e758-44b3-b230-ea62b3616be7@f1a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
-DTEND:20251205T141000Z
-LOCATION:6 корпус - с/з №6 
-DTSTART:20251205T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:037ddcea-a6a1-432b-bae9-12e1956a1d27@037d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTEND:20251212T123000Z
-LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTSTART:20251212T110000Z
-SUMMARY:Иностранный язык
-UID:c2130e7d-55e3-4c56-8be4-93a5b6b9832b@c213.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - с/з №7 
-DTEND:20251217T141000Z
-LOCATION:2 корпус - с/з №7 
-DTSTART:20251217T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:1b9b6f5a-2efe-44f2-83ed-8ad23648755a@1b9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
-DTEND:20251224T102000Z
-LOCATION:2 корпус - 341 
-DTSTART:20251224T085000Z
-SUMMARY:История России
-UID:8304b525-496d-40b5-9715-699bb6459cdd@8304.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
-DTEND:20251226T141000Z
-LOCATION:6 корпус - с/з №6 
-DTSTART:20251226T124000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:51c3e504-dfd5-47b0-b1bc-0661a5443843@51c3.org
+UID:efd791f4-b849-4a8e-abb9-a8618747ca39@efd7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
@@ -287,71 +15,23 @@ DTEND:20251203T070000Z
 LOCATION:9 корпус - 3.13 
 DTSTART:20251203T053000Z
 SUMMARY:Микроэкономика
-UID:333ab975-3f98-4677-802f-69ea807d4e4f@333a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
-DTEND:20251210T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20251210T071000Z
-SUMMARY:Микроэкономика
-UID:eecb0f36-cf81-4a4d-9eb8-895ac14570b8@eecb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
-DTEND:20251203T123000Z
-LOCATION:3 корпус - 202 
-DTSTART:20251203T110000Z
-SUMMARY:Право
-UID:3b54f830-4a0c-4cda-a304-de6b31dc05e6@3b54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTEND:20251219T123000Z
-LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTSTART:20251219T110000Z
-SUMMARY:Иностранный язык
-UID:567c1026-baed-45a8-90bf-be049a58ce74@567c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20251121T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20251121T085000Z
-SUMMARY:Основы военной подготовки
-UID:305cf6b8-1e02-4c44-8ad6-98493e04e605@305c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
-DTEND:20251211T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20251211T071000Z
-SUMMARY:Дискретная математика
-UID:b767b1c7-e64a-4209-a998-78eb11d4ad81@b767.org
+UID:a1f497e3-c53d-4a14-a8ae-116546fc2106@a1f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
-DTEND:20251210T102000Z
+DTEND:20251217T102000Z
 LOCATION:2 корпус - 341 
-DTSTART:20251210T085000Z
+DTSTART:20251217T085000Z
 SUMMARY:История России
-UID:92362d00-474d-4bb8-9b9f-fc796a94daa3@9236.org
+UID:632eb584-54d8-49fa-a7f6-fb37be0db0a8@632e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20251128T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20251128T085000Z
-SUMMARY:Основы военной подготовки
-UID:b1a3b5e1-b0c9-400a-a9f1-3f48f28a1ea5@b1a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20251202T084000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20251202T071000Z
-SUMMARY:Микроэкономика
-UID:c23f5048-05f6-497a-9b74-5a9760453a8e@c23f.org
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - с/з №1 
+DTEND:20251201T084000Z
+LOCATION:2 корпус - с/з №1 
+DTSTART:20251201T071000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:0e2b861b-d6e5-4fa1-a359-433b74d06462@0e2b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
@@ -359,7 +39,199 @@ DTEND:20251204T084000Z
 LOCATION:9 корпус - 3.05 
 DTSTART:20251204T071000Z
 SUMMARY:Дискретная математика
-UID:60d1b31a-a622-4ea6-a93d-04900d522e83@60d1.org
+UID:b03d7a20-a0c1-4eec-8317-d368deaff8be@b03d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
+DTEND:20251126T123000Z
+LOCATION:3 корпус - 202 
+DTSTART:20251126T110000Z
+SUMMARY:Право
+UID:224155f1-7f15-4ebf-a62a-452930d16e56@2241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
+DTEND:20251126T102000Z
+LOCATION:2 корпус - 341 
+DTSTART:20251126T085000Z
+SUMMARY:История России
+UID:c5b1d8e9-000f-4c7a-b359-2f202dc43b1e@c5b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20251202T084000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20251202T071000Z
+SUMMARY:Микроэкономика
+UID:91eb0d39-08ab-4b8d-a994-f756bd6c263d@91eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
+DTEND:20251119T102000Z
+LOCATION:2 корпус - 341 
+DTSTART:20251119T085000Z
+SUMMARY:История России
+UID:3f902205-1d03-474c-a7cc-0f13303291f8@3f90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTEND:20251128T123000Z
+LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTSTART:20251128T110000Z
+SUMMARY:Иностранный язык
+UID:0b25b03c-f7a0-4003-92e5-7b7901cace63@0b25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
+DTEND:20251210T102000Z
+LOCATION:2 корпус - 341 
+DTSTART:20251210T085000Z
+SUMMARY:История России
+UID:175cb60a-adba-49f2-9171-fde564241e8a@175c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
+DTEND:20251117T141000Z
+LOCATION:6 корпус - с/з №6 
+DTSTART:20251117T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:67d1c84d-6ed4-4c2e-8f6c-9502183ddcea@67d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20251121T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20251121T085000Z
+SUMMARY:Основы военной подготовки
+UID:c0cfcd83-ef76-4971-bd95-3e4dc69ddb09@c0cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTEND:20251121T123000Z
+LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTSTART:20251121T110000Z
+SUMMARY:Иностранный язык
+UID:935b5d1a-3350-4089-a8ee-cd74365553fb@935b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20251118T084000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20251118T071000Z
+SUMMARY:Микроэкономика
+UID:b6566b52-b9b1-4d21-b8df-26f744832ef5@b656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
+DTEND:20251212T141000Z
+LOCATION:6 корпус - с/з №6 
+DTSTART:20251212T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:db52fdff-f475-4fd3-b692-8b3fdfe99333@db52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTEND:20251212T123000Z
+LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTSTART:20251212T110000Z
+SUMMARY:Иностранный язык
+UID:c75b1b67-1b4f-4232-9574-acf1a1a60185@c75b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 221/1 
+DTEND:20251201T141000Z
+LOCATION:3 корпус - 221/1 
+DTSTART:20251201T124000Z
+SUMMARY:Дискретная математика
+UID:047665f3-f9b9-43c2-9cfe-5f01b5313c6e@0476.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
+DTEND:20251203T123000Z
+LOCATION:3 корпус - 202 
+DTSTART:20251203T110000Z
+SUMMARY:Право
+UID:c50c114a-f343-4fc5-b8bc-97038f50bb78@c50c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - с/з №7 
+DTEND:20251217T141000Z
+LOCATION:2 корпус - с/з №7 
+DTSTART:20251217T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:63eec718-e938-4f5d-af0d-d76e66389c33@63ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
+DTEND:20251203T102000Z
+LOCATION:2 корпус - 341 
+DTSTART:20251203T085000Z
+SUMMARY:История России
+UID:7e38b7b9-c797-4292-95bb-a9243f9443d9@7e38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 435 
+DTEND:20251208T141000Z
+LOCATION:3 корпус - 435 
+DTSTART:20251208T124000Z
+SUMMARY:Дискретная математика
+UID:29d3d284-7f3e-4086-bb10-ee3e7e9065e5@29d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20251206T084000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20251206T071000Z
+SUMMARY:Дискретная математика
+UID:5d424024-563b-46c7-950a-6c0e77a43a6e@5d42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
+DTEND:20251224T123000Z
+LOCATION:3 корпус - 202 
+DTSTART:20251224T110000Z
+SUMMARY:Право
+UID:adfb374e-37d3-4e25-ab36-e908e3d0e2b8@adfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
+DTEND:20251126T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20251126T071000Z
+SUMMARY:Микроэкономика
+UID:65d67cc9-7608-4d6b-99f5-9aa2ced6c5bf@65d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
+DTEND:20251120T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20251120T071000Z
+SUMMARY:Дискретная математика
+UID:fe66e962-7332-4ade-baa3-2fbfd5975737@fe66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
+DTEND:20251210T123000Z
+LOCATION:3 корпус - 202 
+DTSTART:20251210T110000Z
+SUMMARY:Право
+UID:3db603de-7199-4063-bd7e-2df6694718f9@3db6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - 341 
+DTEND:20251224T102000Z
+LOCATION:2 корпус - 341 
+DTSTART:20251224T085000Z
+SUMMARY:История России
+UID:688cb98e-df40-4340-82ef-4f7d57b94644@688c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20251128T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20251128T085000Z
+SUMMARY:Основы военной подготовки
+UID:bd25a8fc-26c3-4874-b7a8-9d7cdaa47153@bd25.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
@@ -367,6 +239,134 @@ DTEND:20251209T084000Z
 LOCATION:9 корпус - 3.13 
 DTSTART:20251209T071000Z
 SUMMARY:Микроэкономика
-UID:b0de879c-19dd-431e-b650-95aeb65633d3@b0de.org
+UID:7778d16c-4624-472a-851c-a44ba0aec3fe@7778.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
+DTEND:20251211T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20251211T071000Z
+SUMMARY:Дискретная математика
+UID:5405a975-6231-4e7f-823e-82888078dc05@5405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - с/з №7 
+DTEND:20251224T141000Z
+LOCATION:2 корпус - с/з №7 
+DTSTART:20251224T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:6d36d61d-c297-4acd-bce4-32c52a6221d9@6d36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 2 корпус - с/з №7 
+DTEND:20251210T141000Z
+LOCATION:2 корпус - с/з №7 
+DTSTART:20251210T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:a1df0371-4e97-4987-80ab-19d9526f9d5c@a1df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
+DTEND:20251205T141000Z
+LOCATION:6 корпус - с/з №6 
+DTSTART:20251205T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:b69a2efc-6c4c-48c9-927e-41677c9c8232@b69a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
+DTEND:20251226T141000Z
+LOCATION:6 корпус - с/з №6 
+DTSTART:20251226T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:aa6ad943-e40d-4dfb-8e52-f59774f75fcf@aa6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
+DTEND:20251121T141000Z
+LOCATION:6 корпус - с/з №6 
+DTSTART:20251121T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:82bb0a32-9bdd-4367-bb6a-9a34a917c189@82bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20251125T084000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20251125T071000Z
+SUMMARY:Микроэкономика
+UID:c9561dfd-85cd-4b4d-b86d-dc17a513da8e@c956.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20251205T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20251205T085000Z
+SUMMARY:Основы военной подготовки
+UID:87189dc0-4da4-4db5-994b-92ad67b1aed9@8718.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTEND:20251205T123000Z
+LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTSTART:20251205T110000Z
+SUMMARY:Иностранный язык
+UID:f51c34f1-d03c-4eb2-94b9-ce15b57c41a2@f51c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTEND:20251219T123000Z
+LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTSTART:20251219T110000Z
+SUMMARY:Иностранный язык
+UID:67fa6e0e-2186-4535-8df0-dd4a93072d13@67fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
+DTEND:20251219T141000Z
+LOCATION:6 корпус - с/з №6 
+DTSTART:20251219T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:1ed1528b-e36b-40c9-a27e-7442ecaccf0d@1ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
+DTEND:20251128T141000Z
+LOCATION:6 корпус - с/з №6 
+DTSTART:20251128T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:1ee3e9a9-f708-459c-a36a-497d167304ce@1ee3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
+DTEND:20251203T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20251203T071000Z
+SUMMARY:Микроэкономика
+UID:6d22970d-4dfd-4ee7-af7a-8dca6918cd0c@6d22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
+DTEND:20251210T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20251210T071000Z
+SUMMARY:Микроэкономика
+UID:d112baaf-1987-4380-908f-cf3aa81ea97f@d112.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 202 
+DTEND:20251217T123000Z
+LOCATION:3 корпус - 202 
+DTSTART:20251217T110000Z
+SUMMARY:Право
+UID:0efddd7e-f191-4e38-9eb3-1b33caa9ec8a@0efd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - с/з №6 
+DTEND:20251124T141000Z
+LOCATION:6 корпус - с/з №6 
+DTSTART:20251124T124000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:ca940cd9-34d4-44cf-b940-2dcf3a3ab624@ca94.org
 END:VEVENT
 END:VCALENDAR

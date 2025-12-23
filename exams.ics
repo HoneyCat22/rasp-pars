@@ -2,20 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Тип: Зачет\nАудитория: 9 корпус - 3.13 
+DTEND:20251212T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20251212T085000Z
+SUMMARY:Основы военной подготовки
+UID:f2e7cd78-a314-44ed-a9f4-c183b8a0292d@f2e7.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Тип: Диф. зачет\nАудитория: 8 корпус - 406 
 DTEND:20251117T102000Z
 LOCATION:8 корпус - 406 
 DTSTART:20251117T085000Z
 SUMMARY:Основы российской государственности
-UID:5873f6f7-fe78-4492-b90d-e941c753b8a0@5873.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Зачет\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTEND:20251226T123000Z
-LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
-DTSTART:20251226T110000Z
-SUMMARY:Иностранный язык
-UID:6a2df9e3-7cde-4d56-8abc-ccddaaef3fea@6a2d.org
+UID:d6b5d7dc-8e19-4a1f-97b3-850c4379cd48@d6b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.05 
@@ -23,14 +23,14 @@ DTEND:20251212T155000Z
 LOCATION:9 корпус - 3.05 
 DTSTART:20251212T142000Z
 SUMMARY:Математический анализ
-UID:9d7f2c09-80d7-4726-b052-645cc27dcb65@9d7f.org
+UID:b42fe628-4ff6-4fcb-b252-ebcee3bcd6d2@b42f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тип: Зачет\nАудитория: 9 корпус - 3.13 
-DTEND:20251212T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20251212T085000Z
-SUMMARY:Основы военной подготовки
-UID:943fde41-a2ba-483b-8a4a-a59b7b41647c@943f.org
+DESCRIPTION:Тип: Зачет\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTEND:20251226T123000Z
+LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
+DTSTART:20251226T110000Z
+SUMMARY:Иностранный язык
+UID:78e974b9-8864-40d4-8e03-7e38ed6bfb63@78e9.org
 END:VEVENT
 END:VCALENDAR
