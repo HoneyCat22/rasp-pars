@@ -7,15 +7,7 @@ DTEND:20251212T102000Z
 LOCATION:9 корпус - 3.13 
 DTSTART:20251212T085000Z
 SUMMARY:Основы военной подготовки
-UID:35ed6f8b-86f7-4078-b373-bab8a7c40bf8@35ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет\nАудитория: 8 корпус - 406 
-DTEND:20251117T102000Z
-LOCATION:8 корпус - 406 
-DTSTART:20251117T085000Z
-SUMMARY:Основы российской государственности
-UID:1128a2df-0e2f-4eb3-8574-cbb50eac46fb@1128.org
+UID:9da4b88f-4352-4ece-abc4-70ec26ded563@9da4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Зачет\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
@@ -23,7 +15,7 @@ DTEND:20251226T123000Z
 LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
 DTSTART:20251226T110000Z
 SUMMARY:Иностранный язык
-UID:f0f5efb4-bfae-49cd-be06-9571334e2134@f0f5.org
+UID:e9770e10-b9d6-4062-83f2-84c1fe4a6418@e977.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.05 
@@ -31,6 +23,14 @@ DTEND:20251212T155000Z
 LOCATION:9 корпус - 3.05 
 DTSTART:20251212T142000Z
 SUMMARY:Математический анализ
-UID:8d719309-da22-4280-9326-411f6808d147@8d71.org
+UID:1adfdd0d-146d-4e0f-ae3b-750803c81e04@1adf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Диф. зачет\nАудитория: 8 корпус - 406 
+DTEND:20251117T102000Z
+LOCATION:8 корпус - 406 
+DTSTART:20251117T085000Z
+SUMMARY:Основы российской государственности
+UID:2cc89589-2058-4ddb-a7d7-ef3acb61c7cf@2cc8.org
 END:VEVENT
 END:VCALENDAR
