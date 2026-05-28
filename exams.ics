@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет\nАудитория: 8 корпус - 406 
-DTEND:20251117T102000Z
-LOCATION:8 корпус - 406 
-DTSTART:20251117T085000Z
-SUMMARY:Основы российской государственности
-UID:396ba076-0594-4c2c-91ff-f73f20985354@396b.org
+DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.05 
+DTEND:20251212T155000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20251212T142000Z
+SUMMARY:Математический анализ
+UID:1ae46965-f1f1-4fbe-8213-c402cdc750c8@1ae4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Зачет\nАудитория: подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
@@ -15,15 +15,15 @@ DTEND:20251226T123000Z
 LOCATION:подгруппа 1: 9 корпус - 3.13 / подгруппа 2: 6 корпус - 357
 DTSTART:20251226T110000Z
 SUMMARY:Иностранный язык
-UID:922a3073-9cac-4a68-92e3-67dc22918a77@922a.org
+UID:9591222d-d754-4694-96eb-81ca833afaaa@9591.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.05 
-DTEND:20251212T155000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20251212T142000Z
-SUMMARY:Математический анализ
-UID:3f7b8072-9f14-4463-9c69-77ae26e796bb@3f7b.org
+DESCRIPTION:Тип: Диф. зачет\nАудитория: 8 корпус - 406 
+DTEND:20251117T102000Z
+LOCATION:8 корпус - 406 
+DTSTART:20251117T085000Z
+SUMMARY:Основы российской государственности
+UID:b33d51db-ed9e-4365-b36a-3142632cd084@b33d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Зачет\nАудитория: 9 корпус - 3.13 
@@ -31,6 +31,6 @@ DTEND:20251212T102000Z
 LOCATION:9 корпус - 3.13 
 DTSTART:20251212T085000Z
 SUMMARY:Основы военной подготовки
-UID:768119dd-de66-4883-aef2-7a081b1d7bc1@7681.org
+UID:03b8d91b-2843-4705-8155-a81db1e25bc0@03b8.org
 END:VEVENT
 END:VCALENDAR
