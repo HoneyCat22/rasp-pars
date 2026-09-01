@@ -3,99 +3,19 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261121T084000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261121T071000Z
-SUMMARY:Экономика зарубежных стран
-UID:ae858ab4-fb21-4d80-8d9e-dedc7792551b@ae85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
-DTEND:20261204T070000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261204T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:b1474f7f-e604-4dd7-a03d-a6e9fb569ccf@b147.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261216T070000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261216T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:983a011e-c94b-4a8a-9091-c0938a70e9e1@983a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261212T084000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261212T071000Z
-SUMMARY:Экономика зарубежных стран
-UID:bca07868-52af-40fd-8c2a-dd5e36197f87@bca0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
-DTEND:20261214T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261214T071000Z
-SUMMARY:Линейная алгебра
-UID:06e7ad91-c165-43a9-b75a-07ac471c9ef0@06e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261209T070000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261209T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:33382b5e-da14-40e8-9982-806b34081579@3338.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261205T084000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261205T071000Z
-SUMMARY:Экономика зарубежных стран
-UID:0b378165-6c4d-40ce-8cc8-9f6739020c5f@0b37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
 DTEND:20261118T070000Z
 LOCATION:6 корпус - 357 
 DTSTART:20261118T053000Z
 SUMMARY:Теория вероятностей и математическая статистика
-UID:78403573-8fa0-44a1-8d56-b0dc838eb3ed@7840.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
-DTEND:20261228T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261228T071000Z
-SUMMARY:Линейная алгебра
-UID:4827ec99-bca2-4f3d-b3d8-ef315098dd1e@4827.org
+UID:1d956dca-1986-4438-bf1c-3c34d7a4a422@1d95.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261119T102000Z
+DTEND:20261121T084000Z
 LOCATION:6 корпус - 357 
-DTSTART:20261119T085000Z
-SUMMARY:Финансы
-UID:b1bb8ac8-bbdc-443f-8d5f-3a8132281b71@b1bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
-DTEND:20261211T070000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261211T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:ab585076-cc84-405d-9a70-9381b525f95a@ab58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
-DTEND:20261221T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261221T071000Z
-SUMMARY:Линейная алгебра
-UID:949223a0-2564-4381-83ae-ac13acb5876e@9492.org
+DTSTART:20261121T071000Z
+SUMMARY:Экономика зарубежных стран
+UID:9ff2f505-e7c6-4711-bb6a-fdde7113d83e@9ff2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
@@ -103,31 +23,15 @@ DTEND:20261202T070000Z
 LOCATION:6 корпус - 357 
 DTSTART:20261202T053000Z
 SUMMARY:Теория вероятностей и математическая статистика
-UID:cc6d123f-9dcb-416d-8b7a-f4af53b733c7@cc6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261125T070000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261125T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:ca295396-414c-45e7-8a0f-3bd45e0d74b4@ca29.org
+UID:f24c9bdc-b793-45d1-b48d-286ce988c59f@f24c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
-DTEND:20261127T070000Z
+DTEND:20261211T070000Z
 LOCATION:9 корпус - 3.05 
-DTSTART:20261127T053000Z
+DTSTART:20261211T053000Z
 SUMMARY:Теория вероятностей и математическая статистика
-UID:77c14ebe-cd3c-40ea-bad2-ef376e7e05f9@77c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261223T070000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261223T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:b8e5e41f-dbe4-4084-a3cd-a332eb42485c@b8e5.org
+UID:669250fe-11b0-4b0e-bb0e-ef5850a43bfe@6692.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.12 
@@ -135,7 +39,39 @@ DTEND:20261201T123000Z
 LOCATION:9 корпус - 3.12 
 DTSTART:20261201T110000Z
 SUMMARY:Линейная алгебра
-UID:21bdf1a4-a4bf-4903-8914-52bc288b4235@21bd.org
+UID:61b0752f-1cdd-491a-a2dc-a4e8e4460cf3@61b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
+DTEND:20261127T070000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261127T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:6c8814d6-663b-439a-9fcf-246903ff270a@6c88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
+DTEND:20261221T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261221T071000Z
+SUMMARY:Линейная алгебра
+UID:512dd4ea-01ce-4a75-a9ec-192fcf041801@512d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261223T070000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261223T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:a6752969-6bdf-48be-b42c-73be5f376e59@a675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261125T070000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261125T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:2d775ace-e4f1-4457-94b4-afddcbd166a8@2d77.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
@@ -143,7 +79,7 @@ DTEND:20261128T084000Z
 LOCATION:6 корпус - 357 
 DTSTART:20261128T071000Z
 SUMMARY:Экономика зарубежных стран
-UID:aec71c2c-bcbc-4cb7-8ee4-c9d41a713f02@aec7.org
+UID:f7a2f9dc-df08-4157-b8c0-24c841adcd74@f7a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.12 
@@ -151,6 +87,70 @@ DTEND:20261208T123000Z
 LOCATION:9 корпус - 3.12 
 DTSTART:20261208T110000Z
 SUMMARY:Линейная алгебра
-UID:d74852ee-43e1-47ee-ab0b-e0f0b8904ad6@d748.org
+UID:7089f919-0aee-4d1f-ab41-e46de99a46f1@7089.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261212T084000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261212T071000Z
+SUMMARY:Экономика зарубежных стран
+UID:cf6412f7-da18-4d50-9bef-f226a9847982@cf64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
+DTEND:20261204T070000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261204T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:b8ad990b-d5f1-414e-a022-9488565f7959@b8ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
+DTEND:20261214T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261214T071000Z
+SUMMARY:Линейная алгебра
+UID:43b90294-b7cd-4f07-bd06-02c43060abfe@43b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261209T070000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261209T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:dc778431-6c80-44ce-9914-55e7745f01bf@dc77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
+DTEND:20261228T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261228T071000Z
+SUMMARY:Линейная алгебра
+UID:38f26d54-8ce4-4af2-8042-e5a08d2eb19c@38f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261205T084000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261205T071000Z
+SUMMARY:Экономика зарубежных стран
+UID:5d3af6cb-bd1c-4144-b3a4-15c97c122fc5@5d3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261119T102000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261119T085000Z
+SUMMARY:Финансы
+UID:ee2631f0-4aeb-4c1f-98d2-d6b9019600eb@ee26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261216T070000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261216T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:c7a2a6ed-2bbe-4798-84c3-641041733da4@c7a2.org
 END:VEVENT
 END:VCALENDAR
