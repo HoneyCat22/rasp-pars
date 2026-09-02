@@ -2,44 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
-DTEND:20261221T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261221T071000Z
-SUMMARY:Линейная алгебра
-UID:017c9ad6-176d-4dd6-9c6e-3569958a5360@017c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261119T102000Z
+DTEND:20261223T070000Z
 LOCATION:6 корпус - 357 
-DTSTART:20261119T085000Z
-SUMMARY:Финансы
-UID:e99b6efc-8409-4116-88d1-e5e776107784@e99b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261209T070000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261209T053000Z
+DTSTART:20261223T053000Z
 SUMMARY:Теория вероятностей и математическая статистика
-UID:3bfb652a-beaf-434c-ba7f-bb22eec398fd@3bfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261121T084000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261121T071000Z
-SUMMARY:Экономика зарубежных стран
-UID:94f58ac9-34ac-445d-bbd6-4cfdb70d55fa@94f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261128T084000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261128T071000Z
-SUMMARY:Экономика зарубежных стран
-UID:49ceced1-c429-43e0-b769-f42e1382f48d@49ce.org
+UID:ad192216-103b-419d-ab66-de4e5852ca3c@ad19.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
@@ -47,31 +15,15 @@ DTEND:20261127T070000Z
 LOCATION:9 корпус - 3.05 
 DTSTART:20261127T053000Z
 SUMMARY:Теория вероятностей и математическая статистика
-UID:8f4cb74a-25bf-4f67-9674-4578e9642be8@8f4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
-DTEND:20261214T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261214T071000Z
-SUMMARY:Линейная алгебра
-UID:b23c5105-149c-4b11-babc-c214cdf52d4b@b23c.org
+UID:b4c8cb32-6461-4552-bb2e-b3420e8474b5@b4c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261223T070000Z
+DTEND:20261128T084000Z
 LOCATION:6 корпус - 357 
-DTSTART:20261223T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:fa276e43-5060-4aba-a731-6729729e56d9@fa27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
-DTEND:20261204T070000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261204T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:ebfca0f9-05c0-45d7-87bb-03a56cae306b@ebfc.org
+DTSTART:20261128T071000Z
+SUMMARY:Экономика зарубежных стран
+UID:4fc0efc5-99f2-4c24-bf5e-cacb4e62a6e5@4fc0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.12 
@@ -79,15 +31,7 @@ DTEND:20261208T123000Z
 LOCATION:9 корпус - 3.12 
 DTSTART:20261208T110000Z
 SUMMARY:Линейная алгебра
-UID:00271542-d9a1-48cf-b01f-378b57f88eeb@0027.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261205T084000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261205T071000Z
-SUMMARY:Экономика зарубежных стран
-UID:95d8d5ba-40a2-470d-8fc9-4b47022f7a78@95d8.org
+UID:e50f6f12-5f74-4cf8-a3b4-9ef5bc39b6d0@e50f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
@@ -95,39 +39,31 @@ DTEND:20261228T084000Z
 LOCATION:9 корпус - 3.05 
 DTSTART:20261228T071000Z
 SUMMARY:Линейная алгебра
-UID:ed91ff06-689c-49dd-8049-c3a148e41115@ed91.org
+UID:43bfbeac-e9ac-4c37-9d3f-7967b762878f@43bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
+DTEND:20261221T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261221T071000Z
+SUMMARY:Линейная алгебра
+UID:0a347047-9d4e-4e04-9109-24feb6f79a5a@0a34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
+DTEND:20261204T070000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261204T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:6f8fd07d-ed96-4351-81e9-1e34cfd67b8b@6f8f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261118T070000Z
+DTEND:20261121T084000Z
 LOCATION:6 корпус - 357 
-DTSTART:20261118T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:2eb24076-b7b3-44e6-8894-635c9c129213@2eb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261202T070000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261202T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:85a14286-5718-4f92-80df-d651179d39ed@85a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261125T070000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261125T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:552ed974-c04f-4a41-b296-7d6a5d816ea5@552e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261216T070000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261216T053000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:b174c288-2901-48c3-a4f3-6c4efdc473a8@b174.org
+DTSTART:20261121T071000Z
+SUMMARY:Экономика зарубежных стран
+UID:d1a4f10e-5ede-4199-b1c7-907e95a6faac@d1a4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.12 
@@ -135,15 +71,39 @@ DTEND:20261201T123000Z
 LOCATION:9 корпус - 3.12 
 DTSTART:20261201T110000Z
 SUMMARY:Линейная алгебра
-UID:abe5e6e1-73a7-48c9-908e-109face6d1f5@abe5.org
+UID:b2949b59-81e0-497b-919f-f5600dd76eb4@b294.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
-DTEND:20261212T084000Z
+DTEND:20261119T102000Z
 LOCATION:6 корпус - 357 
-DTSTART:20261212T071000Z
-SUMMARY:Экономика зарубежных стран
-UID:87f28c2a-4456-4fa4-b5c6-7b0a97712b6e@87f2.org
+DTSTART:20261119T085000Z
+SUMMARY:Финансы
+UID:0566759b-2274-4ebb-beda-3ffb95d064d1@0566.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261202T070000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261202T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:97daeaf9-7808-4c6d-80bf-4bdb71a194dc@97da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261118T070000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261118T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:d839a8c7-c05a-4c89-b63d-83ad81cccd1f@d839.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261125T070000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261125T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:07cf3d74-e10f-4442-9aab-e84ff6530b5a@07cf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
@@ -151,6 +111,46 @@ DTEND:20261211T070000Z
 LOCATION:9 корпус - 3.05 
 DTSTART:20261211T053000Z
 SUMMARY:Теория вероятностей и математическая статистика
-UID:711690cc-938e-4210-b265-53292ef91baf@7116.org
+UID:4567cf0a-8e85-41de-96f8-c4be03466d7a@4567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261209T070000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261209T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:c656ccec-8070-40c2-ae87-f3e31c1f182c@c656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261205T084000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261205T071000Z
+SUMMARY:Экономика зарубежных стран
+UID:e11557b0-9229-4b4a-b338-6bca2659e287@e115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261212T084000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261212T071000Z
+SUMMARY:Экономика зарубежных стран
+UID:b4999c2e-e91d-4705-93c0-05add94a1bbc@b499.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 6 корпус - 357 
+DTEND:20261216T070000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261216T053000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:6ee072f3-c2d8-4a22-8a99-48b24b49b07d@6ee0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Лекция\nАудитория: 9 корпус - 3.05 
+DTEND:20261214T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261214T071000Z
+SUMMARY:Линейная алгебра
+UID:cdd40b34-6f71-466c-9f6d-77c781b13f1d@cdd4.org
 END:VEVENT
 END:VCALENDAR
