@@ -2,348 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
-DTEND:20261012T102000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261012T085000Z
-SUMMARY:Линейная алгебра
-UID:fce065d1-0ce9-4b04-b599-790fa9312ef5@fce0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20261028T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20261028T085000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:1965ec99-e2c6-467b-a221-0b7e6d1a18a1@1965.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
-DTEND:20260921T102000Z
-LOCATION:6 корпус - 357 
-DTSTART:20260921T085000Z
-SUMMARY:Линейная алгебра
-UID:6f083fc4-ae80-413e-8d10-692f75808c96@6f08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTEND:20261008T084000Z
-LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTSTART:20261008T071000Z
-SUMMARY:Иностранный язык
-UID:81155ae2-a58b-4fb1-b32f-eda8da2669a0@8115.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
-DTEND:20260907T070000Z
-LOCATION:9 корпус - с/з №9.1 
-DTSTART:20260907T053000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:9b4a486c-b52b-46bf-aacb-e6312321e96b@9b4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20261014T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20261014T085000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:e0ecd693-a0f8-4733-8c51-7949f561053d@e0ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 8 корпус - 306 
-DTEND:20260923T123000Z
-LOCATION:8 корпус - 306 
-DTSTART:20260923T110000Z
-SUMMARY:Теория статистики
-UID:871d5153-9061-4fba-a172-a49cdf25d159@871d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
-DTEND:20261028T141000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261028T124000Z
-SUMMARY:Базы данных
-UID:c14110aa-8e92-4d23-bc5f-bd4c820425aa@c141.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTEND:20261022T084000Z
-LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTSTART:20261022T071000Z
-SUMMARY:Иностранный язык
-UID:1d1bcad0-58fe-424e-a531-083c7bd3528c@1d1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
-DTEND:20261014T141000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261014T124000Z
-SUMMARY:Базы данных
-UID:42d25cab-5981-4337-ab4c-c8bb7add40c4@42d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
-DTEND:20261005T070000Z
-LOCATION:9 корпус - с/з №9.1 
-DTSTART:20261005T053000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:3f918e07-45d8-4386-bf63-ebfc58a19010@3f91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.12 
-DTEND:20261020T070000Z
-LOCATION:9 корпус - 3.12 
-DTSTART:20261020T053000Z
-SUMMARY:Менеджмент
-UID:c2e30130-13a0-4e74-9a28-cdff8034d552@c2e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20261007T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20261007T085000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:3febcd2e-e20b-4ace-a711-28956c6e492b@3feb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
-DTEND:20261029T070000Z
-LOCATION:подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
-DTSTART:20261029T053000Z
-SUMMARY:Иностранный язык
-UID:ab6815d7-2d7f-4eb9-80d4-d26c0f522176@ab68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20261030T070000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20261030T053000Z
-SUMMARY:Теория статистики
-UID:15bd4b7b-464c-4dad-8bb2-c91033af63fa@15bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20261016T141000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20261016T124000Z
-SUMMARY:Теория статистики
-UID:376a95f1-4869-418a-b2db-b1c0a7da2a70@376a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20261026T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20261026T085000Z
-SUMMARY:Линейная алгебра
-UID:599fe3b6-e82f-44ea-af7e-d96e627ee107@599f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20261023T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20261023T085000Z
-SUMMARY:Маркетинг
-UID:607ddd85-4b42-4ee8-b039-9ad32a28d95e@607d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
-DTEND:20260921T070000Z
-LOCATION:9 корпус - с/з №9.1 
-DTSTART:20260921T053000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:5138e70a-bec1-4a41-9bd0-a32c2e5441fb@5138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20260909T123000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20260909T110000Z
-SUMMARY:Теория статистики
-UID:2e41e8f3-06f5-46bf-8897-966864d1c66b@2e41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
-DTEND:20261005T102000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261005T085000Z
-SUMMARY:Линейная алгебра
-UID:54d8953d-8edb-4ee3-9ac4-b7974fd63450@54d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 635 
-DTEND:20260923T084000Z
-LOCATION:3 корпус - 635 
-DTSTART:20260923T071000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:91c14d76-9c30-44a6-9409-2c53b8dc6529@91c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTEND:20261001T084000Z
-LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTSTART:20261001T071000Z
-SUMMARY:Иностранный язык
-UID:3548e51c-5343-4f38-8e7a-293d4f42c622@3548.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
-DTEND:20261009T123000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261009T110000Z
-SUMMARY:Деловые и межкультурные коммуникации
-UID:5f14379e-94ea-4bf4-8194-18ef7ef07783@5f14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20260916T123000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20260916T110000Z
-SUMMARY:Теория статистики
-UID:0dff4ff4-a964-4530-a784-37e2988602f9@0dff.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Тип: Практическое занятие\nАудитория: 1 корпус - 62 
 DTEND:20261021T102000Z
 LOCATION:1 корпус - 62 
 DTSTART:20261021T085000Z
 SUMMARY:Теория вероятностей и математическая статистика
-UID:5f9a3c29-87db-47b8-9a8b-fdd91640acf4@5f9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 616 
-DTEND:20261027T102000Z
-LOCATION:6 корпус - 616 
-DTSTART:20261027T085000Z
-SUMMARY:Региональная экономика
-UID:9e6e57d0-dca5-448e-8454-c09499d05ce1@9e6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.12 
-DTEND:20261027T070000Z
-LOCATION:9 корпус - 3.12 
-DTSTART:20261027T053000Z
-SUMMARY:Менеджмент
-UID:ad721974-f3e6-45c4-ae57-29cdc4db3539@ad72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
-DTEND:20261022T070000Z
-LOCATION:подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
-DTSTART:20261022T053000Z
-SUMMARY:Иностранный язык
-UID:2bbd5773-44d2-4c81-a526-a7b123e7110c@2bbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
-DTEND:20261026T070000Z
-LOCATION:9 корпус - с/з №9.1 
-DTSTART:20261026T053000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:00d85d80-90ff-4744-905a-222600e5c4a7@00d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
-DTEND:20260914T102000Z
-LOCATION:6 корпус - 357 
-DTSTART:20260914T085000Z
-SUMMARY:Линейная алгебра
-UID:2f8e6d07-1db3-4c14-8927-8f598c0ecba2@2f8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
-DTEND:20260928T070000Z
-LOCATION:9 корпус - с/з №9.1 
-DTSTART:20260928T053000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:3ec5be89-f818-4b87-b366-f9f8f074ff26@3ec5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
-DTEND:20261002T141000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261002T124000Z
-SUMMARY:Деловые и межкультурные коммуникации
-UID:d0177781-84ee-4b19-99b5-13c6c76d1f75@d017.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 635 
-DTEND:20260909T084000Z
-LOCATION:3 корпус - 635 
-DTSTART:20260909T071000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:5569b35b-3ae8-40e5-ae1d-a51a2b54d10b@5569.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
-DTEND:20260925T141000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20260925T124000Z
-SUMMARY:Деловые и межкультурные коммуникации
-UID:ce96fc70-e526-4224-a81d-6a2563860fd5@ce96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20261016T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20261016T085000Z
-SUMMARY:Маркетинг
-UID:2efaf801-b943-4506-bc94-2c7335772ad1@2efa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTEND:20261015T084000Z
-LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTSTART:20261015T071000Z
-SUMMARY:Иностранный язык
-UID:288dde22-1f24-4797-bf2c-795293a35019@288d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
-DTEND:20261015T070000Z
-LOCATION:подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
-DTSTART:20261015T053000Z
-SUMMARY:Иностранный язык
-UID:2620e840-9194-4c25-9690-f0dbcf832cc6@2620.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
-DTEND:20261001T070000Z
-LOCATION:подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
-DTSTART:20261001T053000Z
-SUMMARY:Иностранный язык
-UID:96637f9d-fe87-40c2-98be-fc43a669a3e4@9663.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.12 
-DTEND:20261009T102000Z
-LOCATION:9 корпус - 3.12 
-DTSTART:20261009T085000Z
-SUMMARY:Теория статистики
-UID:7b0f0d05-1e3d-4af4-a0d8-94f1c4cc3631@7b0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
-DTEND:20261019T070000Z
-LOCATION:9 корпус - с/з №9.1 
-DTSTART:20261019T053000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:3ed49318-0265-46f7-9af5-9064a689a896@3ed4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 635 
-DTEND:20260930T084000Z
-LOCATION:3 корпус - 635 
-DTSTART:20260930T071000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:f748c6fc-3758-4965-a9f6-5172e7d90704@f748.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
-DTEND:20260928T102000Z
-LOCATION:6 корпус - 357 
-DTSTART:20260928T085000Z
-SUMMARY:Линейная алгебра
-UID:21045185-32a7-47a6-8fc4-6060002202ef@2104.org
+UID:2092d502-556e-4469-9d21-bf10a7695c9c@2092.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
@@ -351,23 +15,103 @@ DTEND:20260907T102000Z
 LOCATION:6 корпус - 357 
 DTSTART:20260907T085000Z
 SUMMARY:Линейная алгебра
-UID:17315c29-c5c0-48e1-9f3e-f2121b8fe352@1731.org
+UID:bb266384-2bcb-47b4-8016-0628e55db1c0@bb26.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
-DTEND:20261019T102000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261019T085000Z
-SUMMARY:Линейная алгебра
-UID:e8f77b02-5a1b-4805-afcd-6ffd2f58c14c@e8f7.org
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
+DTEND:20261029T070000Z
+LOCATION:подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
+DTSTART:20261029T053000Z
+SUMMARY:Иностранный язык
+UID:b46ed330-0320-478e-a29e-6c99007a3a99@b46e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 249 
-DTEND:20260911T141000Z
-LOCATION:6 корпус - 249 
-DTSTART:20260911T124000Z
-SUMMARY:Деловые и межкультурные коммуникации
-UID:b9c01b16-700b-4d4b-86ca-aefa4e2562c7@b9c0.org
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
+DTEND:20260921T070000Z
+LOCATION:9 корпус - с/з №9.1 
+DTSTART:20260921T053000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:26325353-2e0d-48b1-8500-273013c173c4@2632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20260916T123000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20260916T110000Z
+SUMMARY:Теория статистики
+UID:a9b06368-c631-47f6-b102-f1204b0d6568@a9b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 635 
+DTEND:20260909T084000Z
+LOCATION:3 корпус - 635 
+DTSTART:20260909T071000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:3f42ecf4-c0ba-43b0-bd09-9d1531855d59@3f42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
+DTEND:20261005T070000Z
+LOCATION:9 корпус - с/з №9.1 
+DTSTART:20261005T053000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:5fe8047f-91c4-4639-b9c4-aa5b5d658ead@5fe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.12 
+DTEND:20261027T070000Z
+LOCATION:9 корпус - 3.12 
+DTSTART:20261027T053000Z
+SUMMARY:Менеджмент
+UID:6dbbbe1c-0dae-4b1c-bfe8-8649b3853836@6dbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20261023T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20261023T085000Z
+SUMMARY:Маркетинг
+UID:666c382e-2784-4074-bda3-b3f1e4aa62b9@666c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
+DTEND:20261022T070000Z
+LOCATION:подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
+DTSTART:20261022T053000Z
+SUMMARY:Иностранный язык
+UID:d8e317f6-e61a-4473-998b-f20bf9110a54@d8e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 616 
+DTEND:20261027T102000Z
+LOCATION:6 корпус - 616 
+DTSTART:20261027T085000Z
+SUMMARY:Региональная экономика
+UID:151407e0-d3e0-4955-b2be-8680593fe31b@1514.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
+DTEND:20261015T070000Z
+LOCATION:подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
+DTSTART:20261015T053000Z
+SUMMARY:Иностранный язык
+UID:2ea3d44b-b34f-4e3c-bb8a-0af86e216600@2ea3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
+DTEND:20260928T070000Z
+LOCATION:9 корпус - с/з №9.1 
+DTSTART:20260928T053000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:cd68bf03-5686-45c1-ac0e-77638a7a3630@cd68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20260909T123000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20260909T110000Z
+SUMMARY:Теория статистики
+UID:1061ebb0-4687-4eed-8fe6-8104407e014d@1061.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
@@ -375,63 +119,55 @@ DTEND:20261008T070000Z
 LOCATION:подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
 DTSTART:20261008T053000Z
 SUMMARY:Иностранный язык
-UID:305d0f49-ada3-4b03-9cda-83dfd0dc27a8@305d.org
+UID:97dc22ea-7bf1-4789-8a11-db4bcafbd5fb@97dc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
-DTEND:20261012T070000Z
-LOCATION:9 корпус - с/з №9.1 
-DTSTART:20261012T053000Z
-SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:f5f8db00-3d89-4e54-aed8-9e40fe90639d@f5f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20261030T102000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20261030T085000Z
-SUMMARY:Маркетинг
-UID:1c17f7fe-3ab4-4edd-8a47-bc712a8c7265@1c17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 8 корпус - 501 
-DTEND:20260918T141000Z
-LOCATION:8 корпус - 501 
-DTSTART:20260918T124000Z
-SUMMARY:Деловые и межкультурные коммуникации
-UID:d6867867-2e69-4eff-b49b-3276b1d50824@d686.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
-DTEND:20261021T141000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261021T124000Z
-SUMMARY:Базы данных
-UID:9c84b521-ab7e-405a-80b1-17fe9d1a160d@9c84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
-DTEND:20260930T123000Z
-LOCATION:9 корпус - 3.13 
-DTSTART:20260930T110000Z
-SUMMARY:Теория статистики
-UID:5904ed14-1f7c-4dcb-a011-e2285991f6f5@5904.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTEND:20261029T084000Z
-LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTSTART:20261029T071000Z
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
+DTEND:20261001T070000Z
+LOCATION:подгруппа 2: 9 корпус - 3.05 / подгруппа 1: 9 корпус - 3.12
+DTSTART:20261001T053000Z
 SUMMARY:Иностранный язык
-UID:762b8af7-e14a-4771-a0b8-56a9195a4d30@762b.org
+UID:ec5c57ad-5860-4216-9fb7-8fdfd56210fe@ec5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20261007T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20261007T085000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:443c8fbf-c955-4918-bbc3-4a8bd6f8b8c7@443c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 635 
-DTEND:20260916T084000Z
+DTEND:20260923T084000Z
 LOCATION:3 корпус - 635 
-DTSTART:20260916T071000Z
+DTSTART:20260923T071000Z
 SUMMARY:Теория вероятностей и математическая статистика
-UID:d277801a-eec4-4e9d-97c7-7590fb591e65@d277.org
+UID:6ec7258d-a57a-482f-bb27-96cac6186b18@6ec7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
+DTEND:20261002T141000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261002T124000Z
+SUMMARY:Деловые и межкультурные коммуникации
+UID:fdf3a85d-29f6-4315-a896-a0b32ab20919@fdf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.12 
+DTEND:20261009T102000Z
+LOCATION:9 корпус - 3.12 
+DTSTART:20261009T085000Z
+SUMMARY:Теория статистики
+UID:c2513f17-4897-44b6-9003-e904b3ecaa5e@c251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
+DTEND:20261028T141000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261028T124000Z
+SUMMARY:Базы данных
+UID:e00044cd-9809-4e9b-a04e-9ccaab5624a3@e000.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
@@ -439,6 +175,270 @@ DTEND:20260914T070000Z
 LOCATION:9 корпус - с/з №9.1 
 DTSTART:20260914T053000Z
 SUMMARY:Элективные дисциплины по физической культуре и спорту
-UID:cb6d70a3-594a-4803-bdfd-e632fdbe683c@cb6d.org
+UID:bff4f5f7-ccb9-4eb6-a1cf-251157003d10@bff4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
+DTEND:20261012T102000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261012T085000Z
+SUMMARY:Линейная алгебра
+UID:a9a97908-926f-494f-adec-4fa1cfd9cae9@a9a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20261026T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20261026T085000Z
+SUMMARY:Линейная алгебра
+UID:6b6c4c5c-b9fd-4c57-ae02-34c3515e32ee@6b6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 635 
+DTEND:20260930T084000Z
+LOCATION:3 корпус - 635 
+DTSTART:20260930T071000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:d18021a1-9a04-4328-9226-48be0f16cd71@d180.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
+DTEND:20261005T102000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261005T085000Z
+SUMMARY:Линейная алгебра
+UID:f0e8afdd-dcc9-419f-b58b-4d15eb099586@f0e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
+DTEND:20261012T070000Z
+LOCATION:9 корпус - с/з №9.1 
+DTSTART:20261012T053000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:67da0be6-9f30-49a1-bdd7-718b1d7a3246@67da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
+DTEND:20261026T070000Z
+LOCATION:9 корпус - с/з №9.1 
+DTSTART:20261026T053000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:e22f43d9-65c2-4662-b759-1e207a49b7cf@e22f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 8 корпус - 501 
+DTEND:20260918T141000Z
+LOCATION:8 корпус - 501 
+DTSTART:20260918T124000Z
+SUMMARY:Деловые и межкультурные коммуникации
+UID:dae4b39a-7918-40bf-a44c-2b689fe4305f@dae4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
+DTEND:20260914T102000Z
+LOCATION:6 корпус - 357 
+DTSTART:20260914T085000Z
+SUMMARY:Линейная алгебра
+UID:22c8f3e4-f061-41db-8651-ef135d891754@22c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
+DTEND:20261019T102000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261019T085000Z
+SUMMARY:Линейная алгебра
+UID:67f885fe-5eac-4658-9c17-20fcc07200fd@67f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTEND:20261029T084000Z
+LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTSTART:20261029T071000Z
+SUMMARY:Иностранный язык
+UID:509127d4-37bb-4aad-a5b4-83fc052fb785@5091.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20261014T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20261014T085000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:3e924bee-dfcd-4f9c-a09e-e5da1d4382de@3e92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
+DTEND:20261021T141000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261021T124000Z
+SUMMARY:Базы данных
+UID:7c3a1bb5-d4a9-4d3d-8829-d8e106eb2468@7c3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
+DTEND:20260928T102000Z
+LOCATION:6 корпус - 357 
+DTSTART:20260928T085000Z
+SUMMARY:Линейная алгебра
+UID:ab728861-23cd-4b8a-9698-fb968d4be8f3@ab72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 249 
+DTEND:20260911T141000Z
+LOCATION:6 корпус - 249 
+DTSTART:20260911T124000Z
+SUMMARY:Деловые и межкультурные коммуникации
+UID:78fe90bd-6e36-43c3-9f66-5ca386c8e61a@78fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTEND:20261015T084000Z
+LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTSTART:20261015T071000Z
+SUMMARY:Иностранный язык
+UID:d4d661a1-27a9-4b79-9761-ba3b41ee71d2@d4d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
+DTEND:20261019T070000Z
+LOCATION:9 корпус - с/з №9.1 
+DTSTART:20261019T053000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:b347fb2a-d3d2-4da1-b431-5c34cddae847@b347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20261030T070000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20261030T053000Z
+SUMMARY:Теория статистики
+UID:1305407b-a5fa-4c0f-8c2b-22a220dcdb04@1305.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20261030T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20261030T085000Z
+SUMMARY:Маркетинг
+UID:cb520b20-277b-464e-9955-496612dfd498@cb52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 3 корпус - 635 
+DTEND:20260916T084000Z
+LOCATION:3 корпус - 635 
+DTSTART:20260916T071000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:47382ddf-1564-4a25-8fdb-53db3f1efda5@4738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
+DTEND:20260925T141000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20260925T124000Z
+SUMMARY:Деловые и межкультурные коммуникации
+UID:4d67f4a6-01bd-4577-9d5d-9714da8382f2@4d67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTEND:20261001T084000Z
+LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTSTART:20261001T071000Z
+SUMMARY:Иностранный язык
+UID:0c497086-e32f-4e53-a8a6-b3c313271767@0c49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20260930T123000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20260930T110000Z
+SUMMARY:Теория статистики
+UID:10aa2048-9067-45f6-ab39-06185d40a609@10aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTEND:20261022T084000Z
+LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTSTART:20261022T071000Z
+SUMMARY:Иностранный язык
+UID:cff23127-4606-46d4-9ce5-7ac2b932b6e9@cff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.12 
+DTEND:20261020T070000Z
+LOCATION:9 корпус - 3.12 
+DTSTART:20261020T053000Z
+SUMMARY:Менеджмент
+UID:318a8abc-c1fa-4663-9e7a-b71bba4b3aca@318a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20261028T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20261028T085000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:7a61a262-e6c7-42e4-b59a-b2f22a6ee1eb@7a61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 8 корпус - 306 
+DTEND:20260923T123000Z
+LOCATION:8 корпус - 306 
+DTSTART:20260923T110000Z
+SUMMARY:Теория статистики
+UID:d8ff0562-72fb-43fe-860d-cbafe4c6cc9b@d8ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - с/з №9.1 
+DTEND:20260907T070000Z
+LOCATION:9 корпус - с/з №9.1 
+DTSTART:20260907T053000Z
+SUMMARY:Элективные дисциплины по физической культуре и спорту
+UID:122ce3e6-8350-486f-8b5a-08b3827265f3@122c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTEND:20261008T084000Z
+LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTSTART:20261008T071000Z
+SUMMARY:Иностранный язык
+UID:d29257b9-d3a2-43fb-8b7d-85cd9c38920a@d292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
+DTEND:20260921T102000Z
+LOCATION:6 корпус - 357 
+DTSTART:20260921T085000Z
+SUMMARY:Линейная алгебра
+UID:a00f427f-3789-4381-815c-c1b90b1a3847@a00f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 6 корпус - 357 
+DTEND:20261014T141000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261014T124000Z
+SUMMARY:Базы данных
+UID:5b610ece-e8ed-46c8-a533-f7807225b237@5b61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20261016T141000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20261016T124000Z
+SUMMARY:Теория статистики
+UID:dded6622-7d99-4554-9660-0691e8da2c7d@dded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.05 
+DTEND:20261009T123000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261009T110000Z
+SUMMARY:Деловые и межкультурные коммуникации
+UID:8527372a-cbf9-4528-97cb-dda08d92b6de@8527.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Практическое занятие\nАудитория: 9 корпус - 3.13 
+DTEND:20261016T102000Z
+LOCATION:9 корпус - 3.13 
+DTSTART:20261016T085000Z
+SUMMARY:Маркетинг
+UID:1c800c34-a14d-45c6-ae3f-f148ae596582@1c80.org
 END:VEVENT
 END:VCALENDAR
