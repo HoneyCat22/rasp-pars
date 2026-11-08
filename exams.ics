@@ -2,36 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет (пересдача)\nАудитория: 6 корпус - 132 
-DTEND:20261127T102000Z
-LOCATION:6 корпус - 132 
-DTSTART:20261127T085000Z
-SUMMARY:Иностранный язык
-UID:f0ab9e70-3168-46bc-a9cb-2f41e3de9c58@f0ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет\nАудитория: 6 корпус - 357 
-DTEND:20261120T102000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261120T085000Z
-SUMMARY:Маркетинг
-UID:c4980fd7-19f8-456d-82ad-2ea8d0d133c7@c498.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Зачет\nАудитория: 6 корпус - 357 
-DTEND:20261219T102000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261219T085000Z
-SUMMARY:Экономика зарубежных стран
-UID:cbbb87bc-3417-4788-b657-9084f050f34d@cbbb.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Тип: Диф. зачет\nАудитория: 6 корпус - 357 
 DTEND:20261118T141000Z
 LOCATION:6 корпус - 357 
 DTSTART:20261118T124000Z
 SUMMARY:Базы данных
-UID:b1c2b4a9-3640-42ad-b33a-b46531ceef73@b1c2.org
+UID:bdc7a5e2-476c-48a9-a7af-dbdc7bde8bc2@bdc7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Зачет\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
@@ -39,7 +15,7 @@ DTEND:20261224T084000Z
 LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
 DTSTART:20261224T071000Z
 SUMMARY:Иностранный язык
-UID:6f397fd9-15fa-4813-8a77-b594c4ba99fa@6f39.org
+UID:2599d98f-faf8-42e1-87f4-00bf9161a56b@2599.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.05 
@@ -47,15 +23,7 @@ DTEND:20261225T084000Z
 LOCATION:9 корпус - 3.05 
 DTSTART:20261225T071000Z
 SUMMARY:Теория вероятностей и математическая статистика
-UID:91151ef2-2541-4cbc-ae0b-975b1015b793@9115.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.12 
-DTEND:20261124T070000Z
-LOCATION:9 корпус - 3.12 
-DTSTART:20261124T053000Z
-SUMMARY:Менеджмент
-UID:3219f071-cb99-4e17-9ef4-dd805acb53cd@3219.org
+UID:242dbea5-e11d-49e0-a9dc-2a90cf4f8550@242d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.05 
@@ -63,7 +31,31 @@ DTEND:20261229T102000Z
 LOCATION:9 корпус - 3.05 
 DTSTART:20261229T085000Z
 SUMMARY:Финансы
-UID:85a59be1-d12a-4886-895a-579e3097f77d@85a5.org
+UID:86b22e5b-a106-441c-9b3c-b4edc2c53893@86b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Зачет\nАудитория: 6 корпус - 357 
+DTEND:20261219T102000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261219T085000Z
+SUMMARY:Экономика зарубежных стран
+UID:b0abd643-37c5-4acd-b2fa-7b3abdcbbab0@b0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Диф. зачет (пересдача)\nАудитория: 6 корпус - 132 
+DTEND:20261127T102000Z
+LOCATION:6 корпус - 132 
+DTSTART:20261127T085000Z
+SUMMARY:Иностранный язык
+UID:7adfeaa8-bc28-4db7-9817-5c2190958eb6@7adf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.12 
+DTEND:20261124T070000Z
+LOCATION:9 корпус - 3.12 
+DTSTART:20261124T053000Z
+SUMMARY:Менеджмент
+UID:896ef3cb-6eeb-431e-b763-058c7ba5074c@896e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.13 
@@ -71,6 +63,14 @@ DTEND:20261120T141000Z
 LOCATION:9 корпус - 3.13 
 DTSTART:20261120T124000Z
 SUMMARY:Теория статистики
-UID:fd0b5fe1-ffa3-4dd6-9cad-0b7d81be7b5c@fd0b.org
+UID:742a40f5-457f-4f2f-8d9e-35fcc687b1b0@742a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Диф. зачет\nАудитория: 6 корпус - 357 
+DTEND:20261120T102000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261120T085000Z
+SUMMARY:Маркетинг
+UID:d82d39c7-a5ec-41f2-9844-f8cbd6b653db@d82d.org
 END:VEVENT
 END:VCALENDAR
