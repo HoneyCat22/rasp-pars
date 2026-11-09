@@ -1,11 +1,11 @@
 from ics import Calendar, Event
 from datetime import datetime
 import re
-import pytz
+import config
 
 # Этот модуль будет создавать данные календаря
 
-moscow_tz = pytz.timezone("Europe/Moscow") # Задаем часовой пояс
+moscow_tz = config.timezone # Задаем часовой пояс
 
 def create_ics_files(full_schedule):
 

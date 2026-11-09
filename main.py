@@ -1,6 +1,7 @@
 import parser
 import logic
 import calendar_creator
+import config
 
 # Главный модуль
 
@@ -8,8 +9,8 @@ def main():
     
     # Передаем группу и недели для записи в файл. Делается через редактор кода, так как пока необходимости в пользовательском вводе нет
     
-    group_to_parse = '15.22д-э01/25б'
-    weeks_to_parse = range(10, 21) 
+    group_to_parse = config.group_to_parse
+    weeks_to_parse = config.weeks_to_parse
     
     master_schedule_list = [] 
     

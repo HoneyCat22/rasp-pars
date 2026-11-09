@@ -1,4 +1,5 @@
 import requests
+import config
 
 # Этот модуль отвечает за сбор инфы с сайт вуза
 
@@ -6,7 +7,7 @@ def get_schedule_html(group, week_number):
     
     # Задаем урл и параметры
     
-    url = "https://rasp.rea.ru/Schedule/ScheduleCard"                                                           
+    url = config.url                                                        
     my_params = {
     'selection': group,
     'weekNum': week_number,
@@ -14,13 +15,6 @@ def get_schedule_html(group, week_number):
     }
 
     # Задаем заголовки (без них защита сайта нас не пропустит). Заголовки взял с F12 -> Network -> XMR
-    
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0',
-        'Referer': 'https://rasp.rea.ru/?q=15.22%D0%B4-%D1%8D01%2F25%D0%B1',
-        'X-Requested-With': 'XMLHttpRequest',
-        'Accept': 'application/json, text/javascript, */*; q=0.01'
-    }
 
     # сохраняем куки
     session = requests.Session()
@@ -29,11 +23,11 @@ def get_schedule_html(group, week_number):
     
     try:
 
-        response = session.get(url, params=my_params, headers=headers) 
+        response = session.get(url, params=my_params, headers=config.headers) 
         response.raise_for_status() 
         html_data = response.text
         
-        return html_data, session, headers, my_params['selection']
+        return html_data, session, config.headers, my_params['selection']
     
     except requests.exceptions.RequestException as e: 
             print(f"Ошибка при загрузке: {e}") 

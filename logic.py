@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
-import requests
 import re
-
+import config
 # Модуль логики обработки хтмл
 
 def extract_schedule(html_text, session, headers, selection_value):
@@ -86,7 +85,7 @@ def extract_schedule(html_text, session, headers, selection_value):
                     }
                     
                     sub_response = session.get(
-                        "https://rasp.rea.ru/Schedule/GetDetails",
+                        config.details_url,
                         params=sub_params,
                         headers=headers
                     )
