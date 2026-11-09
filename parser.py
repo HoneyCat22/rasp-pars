@@ -7,7 +7,7 @@ def get_schedule_html(group, week_number):
     
     # Задаем урл и параметры
     
-    url = config.url                                                        
+    url = config.base_url                                                        
     my_params = {
     'selection': group,
     'weekNum': week_number,
