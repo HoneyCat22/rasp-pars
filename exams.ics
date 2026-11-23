@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Тип: Зачет\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTEND:20261224T084000Z
-LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
-DTSTART:20261224T071000Z
-SUMMARY:Иностранный язык
-UID:e2b5f4d1-3e83-4c55-8db4-79711dc85bd0@e2b5.org
+DESCRIPTION:Тип: Диф. зачет\nАудитория: 6 корпус - 357 
+DTEND:20261118T141000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261118T124000Z
+SUMMARY:Базы данных
+UID:ed2ec43f-0a6d-4e03-90ac-f383098142fb@ed2e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.13 
@@ -15,55 +15,7 @@ DTEND:20261202T102000Z
 LOCATION:9 корпус - 3.13 
 DTSTART:20261202T085000Z
 SUMMARY:Теория статистики
-UID:529e2696-d77a-4105-a31d-a4487f989660@529e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет\nАудитория: 6 корпус - 357 
-DTEND:20261118T141000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261118T124000Z
-SUMMARY:Базы данных
-UID:d3b02ddd-95aa-49ed-9b8f-1c60ebf41894@d3b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.05 
-DTEND:20261229T102000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261229T085000Z
-SUMMARY:Финансы
-UID:230a6cc4-b19a-4a6e-9944-70d15d14da41@230a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.05 
-DTEND:20261225T084000Z
-LOCATION:9 корпус - 3.05 
-DTSTART:20261225T071000Z
-SUMMARY:Теория вероятностей и математическая статистика
-UID:a2546d82-b39f-4ce4-bc4e-ba19a451460b@a254.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет\nАудитория: 6 корпус - 357 
-DTEND:20261202T141000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261202T124000Z
-SUMMARY:Маркетинг
-UID:f46d8559-d34b-4dfb-9e6e-4b8f105f667e@f46d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.12 
-DTEND:20261124T070000Z
-LOCATION:9 корпус - 3.12 
-DTSTART:20261124T053000Z
-SUMMARY:Менеджмент
-UID:5bd53f4b-212f-4d22-a117-3a0847e16240@5bd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тип: Зачет\nАудитория: 6 корпус - 357 
-DTEND:20261219T102000Z
-LOCATION:6 корпус - 357 
-DTSTART:20261219T085000Z
-SUMMARY:Экономика зарубежных стран
-UID:ae075ebd-49b3-46b2-9fe1-bf6d97a2a8c8@ae07.org
+UID:a2f194c1-a183-4871-8cc2-29aebf54ca3d@a2f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тип: Диф. зачет (пересдача)\nАудитория: 6 корпус - 132 
@@ -71,6 +23,54 @@ DTEND:20261127T102000Z
 LOCATION:6 корпус - 132 
 DTSTART:20261127T085000Z
 SUMMARY:Иностранный язык
-UID:fff3504b-0bfe-47c5-be3f-14fdee2decca@fff3.org
+UID:8909c38b-37f0-49c0-bbf3-8b118ba5253a@8909.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.05 
+DTEND:20261229T102000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261229T085000Z
+SUMMARY:Финансы
+UID:4d441174-0263-45d3-963c-07becef8d24a@4d44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Диф. зачет\nАудитория: 6 корпус - 357 
+DTEND:20261202T141000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261202T124000Z
+SUMMARY:Маркетинг
+UID:39f099a5-d468-43c1-a8ec-6a29764e0a5d@39f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.05 
+DTEND:20261225T084000Z
+LOCATION:9 корпус - 3.05 
+DTSTART:20261225T071000Z
+SUMMARY:Теория вероятностей и математическая статистика
+UID:36846f57-a573-44c1-9e88-3dcf072ae2db@3684.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Зачет\nАудитория: 6 корпус - 357 
+DTEND:20261219T102000Z
+LOCATION:6 корпус - 357 
+DTSTART:20261219T085000Z
+SUMMARY:Экономика зарубежных стран
+UID:b41daf1f-68d9-4da0-acf5-4dfdef8521d3@b41d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Диф. зачет\nАудитория: 9 корпус - 3.12 
+DTEND:20261124T070000Z
+LOCATION:9 корпус - 3.12 
+DTSTART:20261124T053000Z
+SUMMARY:Менеджмент
+UID:d9d5a70f-2d9a-4fd3-86b5-c700c05c9c0e@d9d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тип: Зачет\nАудитория: подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTEND:20261224T084000Z
+LOCATION:подгруппа 2: 6 корпус - 247 / подгруппа 1: 6 корпус - 357
+DTSTART:20261224T071000Z
+SUMMARY:Иностранный язык
+UID:d974e9a9-6eb3-4665-9627-1fb9e3bf8b98@d974.org
 END:VEVENT
 END:VCALENDAR
